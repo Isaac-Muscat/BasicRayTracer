@@ -1,0 +1,3 @@
+
+1. Add Dielectric with transmission and fresnel -> whitted
+2. Add Phong/Blinn phong brdfs -> whitted
